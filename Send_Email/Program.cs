@@ -1,4 +1,7 @@
-﻿public class Program
+﻿
+namespace Advanced_C_Sharp;
+
+public class Program
 {
     static void Main(string[] args)
     {
@@ -6,5 +9,5 @@
     }
 
 
-    static bool 
+    
 }

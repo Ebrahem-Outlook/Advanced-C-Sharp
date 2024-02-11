@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validate_Email", "Validate_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Send_Email", "Send_Email\Send_Email.csproj", "{D121DF76-BFAA-44EF-B638-242A5FF1A31D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sizeof_Datatype", "Sizeof_Datatype\Sizeof_Datatype.csproj", "{AF335F12-1A8E-4A89-9EC4-78C03AA5591E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D121DF76-BFAA-44EF-B638-242A5FF1A31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D121DF76-BFAA-44EF-B638-242A5FF1A31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D121DF76-BFAA-44EF-B638-242A5FF1A31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF335F12-1A8E-4A89-9EC4-78C03AA5591E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF335F12-1A8E-4A89-9EC4-78C03AA5591E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF335F12-1A8E-4A89-9EC4-78C03AA5591E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF335F12-1A8E-4A89-9EC4-78C03AA5591E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
